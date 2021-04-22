@@ -1,8 +1,6 @@
 
 <div align="center"><h1>Olá, meu nome é Gabriel Marçon :wave: </h1> </div>
-<br><br>
-
-<br><br><br><br>
+<br><br><br>
 
 <div align="center" s><h3> :computer: <i> HABILIDADES</i> </h3></div>
 

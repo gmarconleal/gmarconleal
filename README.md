@@ -1,4 +1,4 @@
-<p align="center">
+<center>
 
 # Olá, meu nome é Gabriel Marçon
 <br><br>
@@ -18,6 +18,8 @@
 ------
 
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 
  [![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
   
@@ -27,4 +29,4 @@
 
 ### *CONTATOS*
 
-</p>
+</center>

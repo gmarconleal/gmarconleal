@@ -2,17 +2,6 @@
 <div align="center"><h1>Olá, meu nome é Gabriel Marçon :wave: </h1> </div>
 <br><br>
 
-<div align="center"><h3> :boom: <i>SOBRE MIM </i></h3></div>
-
-<hr>
-<div align="center">
-<h4><p> Sou um grande amante de tecnologia em geral e com a ajuda dela espero mudar o mundo, mesmo que só um pouco. Adoro jogos, principalmente de aventura. Também gosto muito de música e astronomia.</p> </h4>
-  
-
-
-<h4><i> "Quanto mais conhecemos, mais amamos"</i></h4>
-  <h5><i>Leonardo da Vinci</i></h5>
-
 <br><br><br><br>
 
 <div align="center" s><h3> :computer: <i> HABILIDADES</i> </h3></div>

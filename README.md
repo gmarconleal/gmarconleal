@@ -9,7 +9,7 @@
 <h4> Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
 
 
-<h4><i> "Quanto mais conhecemos, mais amamos"*</i></h4>
+<h4><i> "Quanto mais conhecemos, mais amamos"</i></h4>
   <h5><i>Leonardo da Vinci</i></h5>
 
 <br><br>
@@ -34,7 +34,7 @@
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </p>
-
+<br>
 
  [![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
   

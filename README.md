@@ -1,8 +1,8 @@
 
-<div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1> </div>
+<div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1>:wave: </div>
 <br><br>
 
-<div align="center"><h3><i>SOBRE MIM</i></h3></div>
+<div align="center"><h3><i>SOBRE MIM </i></h3></div>
 
 <hr>
 <div align="center">

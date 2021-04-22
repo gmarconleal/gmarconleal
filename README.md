@@ -45,13 +45,13 @@
 <div align="center"><h3><i>CONTATOS</i> </h3></div>
 
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-mar%C3%A7on-9b86a2180/">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+
+  <a align="center" href="https://www.linkedin.com/in/gabriel-mar%C3%A7on-9b86a2180/">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:gmarconleal@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
+  <a align="center" href="mailto:gmarconleal@gmail.com">
+  <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/>
   </a>
 
   

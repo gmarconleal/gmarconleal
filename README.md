@@ -47,7 +47,7 @@
 
 <p align="center">
 
-  <a align="center" href="www.linkedin.com/in/gabriel-marçon-9b86a2180/">
+  <a href="https://www.linkedin.com/in/gabriel-marçon-9b86a2180/">
   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

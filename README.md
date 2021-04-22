@@ -2,9 +2,9 @@
 <div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1> </div>
 <br><br>
 
-<div align="center"><h3><i>SOBRE MIM</i></h3></div>
+<div align="center"><h2><i>SOBRE MIM</i></h2></div>
 
------
+<hr style="width:20%">
 <div align="center">
 <h4> Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
 

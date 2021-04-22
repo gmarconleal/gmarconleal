@@ -1,9 +1,8 @@
-
-<div align="center"><h1> Olá, meu nome é Gabriel Marçon</h1></div>
+<center>
+<div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1> </div>
 <br><br>
 
-
->>>>> ###  *BIOGRAFIA*
+<div align="center"><h3> *BIOGRAFIA*</h3></div>
 -----
 #### Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
 
@@ -13,7 +12,7 @@
 
 <br><br>
 
->>>>>###  *HABILIDADES*
+<div align="center"><h3> *HABILIDADES*</h3></div>
 ------
 
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -27,5 +26,5 @@
 
 
 
->>>>>###   *CONTATOS*
+<div align="center"><h3>  *CONTATOS* </h3></div>
 

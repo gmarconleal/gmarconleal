@@ -2,7 +2,7 @@
 <div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1> </div>
 <br><br>
 
-<div align="center"><h2><i>SOBRE MIM</i></h2></div>
+<div align="center"><h3><i>SOBRE MIM</i></h3></div>
 
 <hr>
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<div align="center" style="color:blue"><h3><i> HABILIDADES</i> </h3></div>
+<div align="center" s><h3><i> HABILIDADES</i> </h3></div>
 
 <hr>
 <p align="center">

@@ -1,5 +1,8 @@
-### Olá, meu nome é Gabriel Marçon
+# Olá, meu nome é Gabriel Marçon
 
 
 ### *BIOGRAFIA*
-Eu sou estudante da Etevav, escola técnica de Jundiaí. Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
+####Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
+
+####*"Quanto mais conhecemos, mais amamos"*
+                                #####~Leonardo da Vinci

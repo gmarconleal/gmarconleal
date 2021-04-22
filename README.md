@@ -2,7 +2,7 @@
 <div align="center"><h1>Olá, meu nome é Gabriel Marçon :wave: </h1> </div>
 <br><br><br>
 
-<div align="center" s><h3> :computer: <i> HABILIDADES</i> </h3></div>
+<div align="center" ><h3> :computer: <i> HABILIDADES</i> </h3></div>
 
 <hr>
 <p align="center">
@@ -26,7 +26,7 @@
 
  ![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
   
-</a>
+
 
 <br><br><br><br>
 

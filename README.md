@@ -6,11 +6,11 @@
 -----
 #### Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
 
-<div style="widht:100%;backgound-color:#03d">
+
 #### *"Quanto mais conhecemos, mais amamos"* <p> 
   #####                    *Leonardo da Vinci*
 
-</div>
+
 ### *HABILIDADES*
 <p align="center">
 

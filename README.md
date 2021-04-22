@@ -18,7 +18,7 @@
 
 ------
 <p align="center">
-<p>
+<p align="center">
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 REACT-NATIVE
 </p>

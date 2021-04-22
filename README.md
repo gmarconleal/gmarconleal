@@ -6,7 +6,8 @@
 
 <hr>
 <div align="center">
-<h4> Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
+<h4><p> Sou um grande amante de tecnologia em geral e com a ajuda dela espero mudar o mundo mesmo que só um pouco.Adoro jogos, principalmente de aventura. Também gosto muito de música e astronomia.</p> </h4>
+  
 
 
 <h4><i> "Quanto mais conhecemos, mais amamos"</i></h4>

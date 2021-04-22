@@ -10,3 +10,10 @@
 #### *"Quanto mais conhecemos, mais amamos"* <p> 
   #####                    *Leonardo da Vinci*
 
+
+<p align="center">
+
+ [![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
+  
+</a>
+</p>

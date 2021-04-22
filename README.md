@@ -1,8 +1,8 @@
 
-<div align="center"><h1>Olá, meu nome é Gabriel Marçon</h1>:wave: </div>
+<div align="center"><h1>Olá, meu nome é Gabriel Marçon :wave: </h1> </div>
 <br><br>
 
-<div align="center"><h3><i>SOBRE MIM </i></h3></div>
+<div align="center"><h3> :boom: <i>SOBRE MIM </i></h3></div>
 
 <hr>
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br><br><br><br>
 
-<div align="center" s><h3><i> HABILIDADES</i> </h3></div>
+<div align="center" s><h3> :computer: <i> HABILIDADES</i> </h3></div>
 
 <hr>
 <p align="center">
@@ -42,7 +42,7 @@
 
 <br><br><br><br>
 
-<div align="center"><h3><i>CONTATOS</i> </h3></div>
+<div align="center"><h3> :telephone_receiver: <i>CONTATOS</i> </h3></div>
 <hr>
 
 <p align="center">

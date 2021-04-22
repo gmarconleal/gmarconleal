@@ -46,7 +46,12 @@
 
 <p align="center">
 
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/gabriel-mar%C3%A7on-9b86a2180/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+
+  
+
 </p>
 
 

@@ -3,6 +3,7 @@
 <br><br>
 
 <div align="center"><h3> *BIOGRAFIA*</h3></div>
+
 -----
 #### Sou um grande amante de tecnologia em geral, adoro carros e também astronomia. Com a ajuda da tecnologia espero mudar o mundo mesmo que só um pouco. 
 

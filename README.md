@@ -45,7 +45,8 @@
 <div align="center"><h3><i>CONTATOS</i> </h3></div>
 
 <p align="center">
-<img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" title="Pixel perfect">
+
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </p>
 
 

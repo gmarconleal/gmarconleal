@@ -14,7 +14,7 @@
 
 <br><br>
 
-<div align="center" style="color:#008000;"><h3><i> HABILIDADES</i> </h3></div>
+<div align="center" style="color:blue"><h3><i> HABILIDADES</i> </h3></div>
 
 <hr>
 <p align="center">

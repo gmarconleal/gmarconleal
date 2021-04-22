@@ -5,6 +5,7 @@
 <div align="center" ><h3> :computer: <i> HABILIDADES</i> </h3></div>
 
 <hr>
+<div align="center">
 <p align="center">
 
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,8 +26,8 @@
 <br><br><br>
 
  ![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
-  
 
+</div>
 
 <br><br><br><br>
 

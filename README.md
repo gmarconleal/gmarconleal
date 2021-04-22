@@ -1,5 +1,5 @@
 
->>>>># Olá, meu nome é Gabriel Marçon
+<div align="center"># Olá, meu nome é Gabriel Marçon</div>
 <br><br>
 
 

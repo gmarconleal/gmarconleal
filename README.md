@@ -45,7 +45,7 @@
 <div align="center"><h3><i>CONTATOS</i> </h3></div>
 
 <p align="center">
-
+<img src="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">
 </p>
 
 

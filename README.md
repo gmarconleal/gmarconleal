@@ -12,7 +12,7 @@
 <h4><i> "Quanto mais conhecemos, mais amamos"</i></h4>
   <h5><i>Leonardo da Vinci</i></h5>
 
-<br><br>
+<br><br><br><br>
 
 <div align="center" s><h3><i> HABILIDADES</i> </h3></div>
 
@@ -34,13 +34,13 @@
 <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
 </p>
-<br>
+<br><br><br>
 
  ![Meus status github](https://github-readme-stats.vercel.app/api?username=gmarconleal&theme=gotham&custom_title=MEUS%20STATUS%20GITHUB&locale=pt-BR)
   
 </a>
 
-
+<br><br><br><br>
 
 <div align="center"><h3><i>CONTATOS</i> </h3></div>
 
